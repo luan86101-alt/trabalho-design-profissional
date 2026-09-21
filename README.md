@@ -1,29 +1,127 @@
-Felipe Gonçales de Souza Moura
-1. Análise do GitHub:
-Usuario: felipegoncales05-pixel
+ # Análise Individual — Thiago Nielsen dos Santos
 
-Atualmente, meu perfil no GitHub possui 1 repositórios públicos. O perfil é utilizado para criação de conteúdos/sites de uso pessoal para consumo de diversão, também é utilizado para aprendizado para futuros projetos ou criações.
+## 1. Análise do GitHub
 
-Repositórios em destaque
-Caíndo em uma Fria: Um site de um RPG de mesa que estou atualmente mestrando, ele é oque seria considerado o site de comunicação oficial da organização daquele universo, com guias de equipe e atualmente conta com somente uma única pagina de missão, porém pretendo no futuro dar uma polida e adição de outro conteudo canva que eu fiz https://www.canva.com/design/DAG9-sQ1d14/B4ARDUIXGLRjlJAG1xkkhA/edit onde contem toda a historia desse universo (uma pequena parte dela ao menos), mas já contextualiza bastante sobre o universo, site possui duas versões uma que é Jogador o padrão que todos acessam e a versõa Keymaster que é Shift + N para acessar onde a mesma requer um login especial que somente eu tenho acesso.
-Relação com Engenharia de Dados
-Atualmente, meu GitHub ainda possui poucos projetos diretamente relacionados à Engenharia de Dados.
+Meu perfil analisado no GitHub utiliza o usuário luan86101-alt e apresenta meu nome como Luan Henrique Ribeiro de Albuquerque. Na descrição do perfil, me apresento como estudante de Análise e Desenvolvimento de Sistemas na UNICID. Também mantenho um link para meu LinkedIn, conectando minhas diferentes redes profissionais.
 
-Para tornar meu perfil mais alinhado à área, pretendo desenvolver projetos envolvendo banco de dados, SQL, Python, ETL e manipulação de dados.
+No momento da análise, meu perfil possui 5 seguidores e não sigo outros usuários. Apesar de minha rede ainda ser pequena, considero que o perfil já apresenta uma identificação profissional relacionada à área de Tecnologia da Informação, servindo como ponto de partida para a construção da minha presença profissional na área de desenvolvimento.
 
-Pontos positivos
-Criatividade
-Persistente
-Confiante
-Humilde
-Pontos a melhorar
-Desenvolver 100%, sem precisar de uma ferramenta de IA
-Seguidores
-Atualmente, o perfil possui 0 seguidores.
+No momento da análise, meu perfil não possui repositórios públicos, projetos ou pacotes publicados. Dessa forma, ainda não possuo projetos fixados ou repositórios com estrelas que possam ser avaliados.
 
-2. Análise do LinkedIn
-3. Instagram e outras redes profissionais
-4. Plano de Carreira
-5. PDI — Plano de Desenvolvimento Individual
-6. Feedback dos colegas
+Essa situação representa uma oportunidade de evolução do meu perfil. Como estudante de ADS, pretendo utilizar o GitHub para publicar projetos desenvolvidos durante a graduação e projetos pessoais, transformando a plataforma em um portfólio técnico que demonstre, na prática, os conhecimentos que venho adquirindo.
+
+Uma evolução possível é começar com projetos mais simples, relacionados aos conteúdos estudados na faculdade, e posteriormente publicar projetos mais completos e complexos. Dessa maneira, poderei acompanhar minha evolução técnica por meio dos próprios projetos disponíveis no perfil.
+
+Atualmente, considero que meu perfil está em uma fase inicial de construção da minha presença profissional no GitHub. A existência de uma descrição relacionada à minha graduação e a conexão com o LinkedIn representam um primeiro passo para utilizar a plataforma como parte da minha identidade profissional.
+
+Minha principal oportunidade de evolução é aumentar a atividade pública do perfil. Pretendo fazer isso por meio da criação de repositórios, publicação de projetos acadêmicos e pessoais e participação em projetos colaborativos.
+
+Também pretendo acompanhar minha evolução por meio de indicadores como quantidade de repositórios públicos, número de contribuições, projetos concluídos, estrelas recebidas e crescimento de seguidores.
+
+No momento da análise, possuo 4 seguidores, porém não existem dados públicos suficientes para determinar como esse número evoluiu ao longo do tempo. Por isso, considero esse número como um ponto de referência para acompanhar meu crescimento futuro na plataforma.
+
+Considerando meu objetivo profissional de atuar como programador, acredito que o GitHub poderá se tornar uma ferramenta importante para apresentar meus conhecimentos técnicos e os projetos desenvolvidos durante minha formação em ADS. Minha expectativa é que, ao longo da graduação, meu perfil evolua de uma presença inicial para um portfólio profissional mais completo.
+
+## 2. Análise do LinkedIn
+
+Meu perfil do LinkedIn apresenta minha atuação como estudante de Análise e Desenvolvimento de Sistemas (ADS) e Assistente Administrativo, demonstrando que atualmente estou passando por uma fase de transição profissional da área administrativa para a área de Tecnologia da Informação.
+
+No meu perfil, apresento como objetivo a transição para Tecnologia e Desenvolvimento de Sistemas. Meu objetivo profissional é atuar como programador, com interesse em futuramente trabalhar na área de tecnologia de uma grande instituição financeira. Ainda não defini um cargo específico dentro da programação, mas já estou direcionando minha formação e meu perfil profissional para a área de desenvolvimento de sistemas.
+
+Em relação à minha experiência profissional, meu perfil apresenta atuação como Jovem Aprendiz e, atualmente, como Assistente Administrativo na Distribuidora Safari. Essa experiência contribui para o desenvolvimento de competências profissionais como organização, responsabilidade, comunicação e trabalho em equipe, que também considero importantes para minha futura atuação na área de tecnologia.
+
+No meu perfil, destaco conhecimentos e interesses relacionados principalmente ao desenvolvimento de sistemas. No título do perfil, apresento Python e Banco de Dados, enquanto na seção de competências aparecem:
+- Linguagens de programação;
+- Desenvolvimento de front-end;
+- Microsoft Office;
+- HTML;
+- CSS;
+- Python.
+
+Essas competências demonstram que estou construindo uma base de conhecimentos em programação, desenvolvimento web e banco de dados. Como ainda estou no início da minha formação em ADS, considero essas tecnologias parte do meu processo de aprendizado e desenvolvimento profissional.
+
+Meu headline atual no LinkedIn é:
+“Estudante de ADS | Assistente Administrativo | Em transição para Tecnologia e Desenvolvimento de Sistemas | Python e Banco de Dados”
+
+Considero que o headline apresenta de forma direta minha situação profissional atual e meu objetivo de mudança de área. Também destaco conhecimentos técnicos específicos, como Python e Banco de Dados, relacionando meu perfil atual com a área de Tecnologia da Informação.
+
+A utilização da expressão “Em transição para Tecnologia e Desenvolvimento de Sistemas” deixa clara minha intenção profissional e demonstra que estou utilizando o LinkedIn também como ferramenta para construir minha carreira na área de tecnologia.
+
+No momento da análise, meu perfil apresenta 3 conexões. Considero que minha rede profissional ainda está em uma fase inicial de construção.
+
+Não consigo determinar, a partir dos dados disponíveis no perfil, quanto minha quantidade de conexões cresceu ao longo do tempo, pois não tenho um histórico público apresentado com os números anteriores. Dessa forma, considero as 3 conexões atuais como um ponto de referência para acompanhar o crescimento futuro da minha rede.
+
+Pretendo ampliar minha rede profissional ao longo da graduação, principalmente por meio do contato com estudantes, professores, profissionais e empresas relacionadas à área de tecnologia. A evolução poderá ser acompanhada por indicadores como quantidade de conexões, seguidores e interações com profissionais e conteúdos relacionados à carreira.
+
+Na análise disponibilizada pelo próprio LinkedIn, meu perfil apresentou 3 visualizações do perfil, 0 impressões de publicações e 1 ocorrência em resultados de pesquisa nos últimos 7 dias.
+
+Esses dados mostram que meu perfil já possui alguma exposição dentro da plataforma, porém ainda apresento um baixo nível de atividade pública. Como não foram identificadas impressões de publicações no período analisado, ainda não é possível avaliar de forma significativa o desempenho dos conteúdos ou meu nível de interação com outros usuários.
+
+Pretendo aumentar minha atividade na plataforma por meio da publicação de conteúdos relacionados aos meus estudos em ADS, projetos acadêmicos, conhecimentos adquiridos em programação e experiências profissionais. Dessa forma, poderei acompanhar a evolução da minha presença e do meu engajamento no LinkedIn.
+
+De forma geral, considero que meu LinkedIn está em uma fase inicial de construção da minha identidade profissional. O perfil já relaciona minha formação em ADS, minha experiência profissional atual e meu objetivo de transição para a área de Tecnologia e Desenvolvimento de Sistemas.
+
+Meus principais pontos de desenvolvimento estão relacionados ao crescimento da minha rede profissional, aumento da atividade na plataforma e construção de uma presença mais voltada para a área de tecnologia.
+
+Como ainda estou definindo com maior precisão qual área da programação pretendo seguir, considero importante continuar desenvolvendo minhas habilidades durante a graduação e utilizar o LinkedIn para registrar minhas experiências e acompanhar minha evolução profissional.
+
+## 3. Outras Redes Profissionais
+
+Além do GitHub e LinkedIn, também utilizo a plataforma DEV.to, uma comunidade voltada para profissionais e estudantes de desenvolvimento de software. Meu perfil está identificado como Thiago Nielsen e apresenta minha descrição como estudante de Análise e Desenvolvimento de Sistemas na UNICID. A conta foi criada em agosto de 2026, demonstrando que minha utilização da plataforma como ferramenta profissional ainda está em uma fase inicial.
+
+Considero o DEV.to uma plataforma que pode contribuir para a construção da minha presença profissional, principalmente por meio da publicação de conteúdos relacionados a programação, desenvolvimento de sistemas, projetos acadêmicos e conhecimentos que venho adquirindo durante a graduação. Com o tempo, pretendo utilizar a plataforma de forma mais ativa para registrar minha evolução e ampliar meu contato com outras pessoas da área de tecnologia.
+
+Também possuo uma conta no Instagram, porém atualmente não utilizo a plataforma com finalidade profissional. Por esse motivo, ela não faz parte das principais ferramentas que utilizo atualmente para construir minha carreira.
+
+No momento, concentro minha presença profissional principalmente no LinkedIn, GitHub e DEV.to, pois considero que essas plataformas possuem maior relação com meu objetivo de desenvolver uma carreira na área de Tecnologia da Informação. Pretendo aumentar gradualmente minha participação nessas redes conforme avanço na graduação e desenvolvo novas habilidades técnicas.
+
+## 4. Planejamento de Carreira
+
+### Curto Prazo — 6 a 12 meses
+
+Meus principais objetivos nos próximos 6 a 12 meses são aumentar meus conhecimentos em diferentes linguagens de programação e fortalecer minha base técnica na área de desenvolvimento de sistemas.
+
+Para isso, pretendo realizar cursos complementares à graduação, buscando aprofundar meus conhecimentos em programação e também aprender mais sobre a criação e utilização de prompts de Inteligência Artificial, considerando a importância que essas ferramentas podem ter no desenvolvimento de software.
+
+Além da parte teórica, pretendo colocar esses conhecimentos em prática por meio do desenvolvimento de projetos pessoais e acadêmicos, buscando aumentar gradualmente a complexidade dos projetos. Esses projetos também poderão ser utilizados para fortalecer meu portfólio no GitHub e demonstrar, na prática, minha evolução técnica.
+
+Outro objetivo importante para esse período é buscar e conseguir uma oportunidade profissional na área de desenvolvimento, como estágio ou uma primeira experiência profissional em Tecnologia da Informação. Dessa forma, pretendo aplicar os conhecimentos adquiridos na graduação e nos cursos em situações reais de trabalho, além de adquirir experiência profissional e compreender melhor qual área do desenvolvimento de software mais se aproxima dos meus interesses.
+
+Ao final desse período, espero ter ampliado significativamente meus conhecimentos em programação, concluído cursos complementares, desenvolvido projetos mais avançados, fortalecido meu portfólio e conseguido uma oportunidade profissional na área de desenvolvimento.
+
+### Médio Prazo — 1 a 3 anos
+
+No período de 1 a 3 anos, pretendo já estar atuando profissionalmente na área de Tecnologia da Informação e estar mais consolidado na área de desenvolvimento de sistemas, colocando em prática os conhecimentos que adquiri durante a graduação e as experiências profissionais.
+
+Também pretendo continuar investindo na minha formação acadêmica e profissional, buscando realizar uma pós-graduação ou uma nova graduação relacionada à área de tecnologia, além de fazer diversos cursos de menor duração para complementar meus conhecimentos e acompanhar as novas tecnologias utilizadas no mercado.
+
+Durante esse período, também pretendo continuar desenvolvendo projetos e aprimorando meu portfólio, buscando demonstrar minha evolução técnica e minha experiência profissional.
+
+Ao final desse período, espero estar mais consolidado na área de desenvolvimento, possuir uma experiência profissional relevante em Tecnologia da Informação, ter um portfólio completo e diversificado e ter desenvolvido conhecimentos técnicos mais avançados que me permitam assumir novas responsabilidades e oportunidades profissionais.
+
+### Longo Prazo — 3 a 5 anos ou mais
+
+No longo prazo, pretendo estar ocupando um cargo de maior responsabilidade na área de desenvolvimento de sistemas, com uma carreira consolidada e um conhecimento amplo sobre diferentes tecnologias e áreas relacionadas ao desenvolvimento. Meu objetivo é continuar estudando e me aperfeiçoando para conseguir atuar em projetos mais complexos e assumir responsabilidades maiores.
+
+Também pretendo alcançar uma posição profissional que me permita compartilhar meus conhecimentos e ajudar novos profissionais que estejam começando na área de Tecnologia da Informação, contribuindo para o desenvolvimento de outras pessoas assim como outras pessoas contribuíram para minha formação.
+
+Outro objetivo é estar trabalhando em uma empresa de grande porte na área de tecnologia, adquirindo experiência em projetos relevantes e utilizando meus conhecimentos em ambientes profissionais mais complexos.
+
+Além dos objetivos profissionais, pretendo conquistar maior independência e flexibilidade na minha carreira. Ao final desse período, tenho como objetivo me mudar para a região Sul do Brasil, buscando uma qualidade de vida que esteja de acordo com meus objetivos pessoais. Também pretendo trabalhar de forma remota para clientes ou empresas de outros países, tendo maior flexibilidade para organizar meus horários e buscando oportunidades de remuneração em dólar ou euro.
+
+Ao final desse período, espero ter uma carreira consolidada, conhecimentos técnicos amplos, experiência profissional relevante, capacidade de orientar novos profissionais e maior liberdade para escolher onde e como trabalhar.
+
+## 5. Plano de Desenvolvimento Individual (PDI)
+
+| Objetivo | Ações | Prazo | Indicadores de progresso |
+|---|---|---|---|
+| **Aumentar meus conhecimentos em programação e fortalecer minha base técnica para atuar profissionalmente na área de desenvolvimento de sistemas.** | Realizar cursos complementares de programação; estudar e praticar diferentes linguagens; desenvolver projetos práticos; publicar os projetos no GitHub para construir meu portfólio. | **6 meses** | Concluir **2 cursos**; desenvolver **4 projetos**; publicar os projetos no GitHub; acompanhar a evolução da quantidade e da complexidade dos projetos. |
+| **Conseguir minha primeira oportunidade profissional na área de desenvolvimento de sistemas.** | Acompanhar vagas de estágio e oportunidades de entrada na área; manter currículo e LinkedIn atualizados; enviar candidaturas para vagas relacionadas ao desenvolvimento; utilizar meus projetos como parte do portfólio profissional. | **6 a 12 meses** | Enviar pelo menos **2 candidaturas por mês**; acompanhar os processos seletivos e retornos recebidos; participar de entrevistas; conseguir uma oportunidade de estágio ou primeira experiência profissional na área. |
+
+O PDI estabelece ações concretas para transformar meus objetivos de carreira em etapas que possam ser acompanhadas ao longo do tempo. Dessa forma, consigo avaliar minha evolução tanto no desenvolvimento das habilidades técnicas quanto na busca pela primeira oportunidade profissional na área de Tecnologia da Informação.
+
+## 6. Feedback dos colegas
+
 A análise apresenta um bom ponto de partida, principalmente por destacar a criatividade, persistência e interesse em evoluir profissionalmente. Mesmo com poucos projetos no GitHub atualmente, é positivo já existir um projeto próprio e uma visão clara sobre os próximos passos. Para fortalecer o perfil na área de Engenharia de Dados, acredito que desenvolver projetos práticos envolvendo SQL, Python, banco de dados, ETL e análise de dados será um diferencial importante. Também considero muito válida a percepção sobre a necessidade de desenvolver autonomia técnica, utilizando ferramentas de IA como apoio, mas buscando compreender e dominar aquilo que está sendo desenvolvido.
+
+O feedback deve ser construtivo, concreto e respeitoso, conforme solicitado na atividade.
