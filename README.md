@@ -2,7 +2,7 @@
 
 ## 1. Análise do GitHub
 
-Meu perfil analisado no GitHub utiliza o usuário ThiagoNielsen2008 e apresenta meu nome como Thiago Nielsen. Na descrição do perfil, me apresento como estudante de Análise e Desenvolvimento de Sistemas na UNICID. Também mantenho um link para meu LinkedIn, conectando minhas diferentes redes profissionais.
+Meu perfil analisado no GitHub utiliza o usuário luan86101-alt e apresenta meu nome como Luan Henrique Ribeiro de Albuquerque. Na descrição do perfil, me apresento como estudante de Análise e Desenvolvimento de Sistemas na UNICID. Também mantenho um link para meu LinkedIn, conectando minhas diferentes redes profissionais.
 
 No momento da análise, meu perfil possui 4 seguidores e não sigo outros usuários. Apesar de minha rede ainda ser pequena, considero que o perfil já apresenta uma identificação profissional relacionada à área de Tecnologia da Informação, servindo como ponto de partida para a construção da minha presença profissional na área de desenvolvimento.
 
